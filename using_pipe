@@ -1,0 +1,15 @@
+Terminal 1:
+mkfifo /data/pipe
+chmod o+rwX /data/pipe
+
+Terminal 2:
+while true; do while read line; do echo "${line}"; done < /data/pipe; done &
+
+Terminal 1:
+echo "Hello" > /data/pipe
+
+Terminal 2:
+[received all from /data/pipe]
+
+Two pipes: 
+echo "Hello" | tee /data/pipe | tee /data/pipe1
