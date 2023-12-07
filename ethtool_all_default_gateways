@@ -1,0 +1,10 @@
+#!/bin/bash
+
+DEVS=$(ip route | awk '{if ($1=="default") {print $5} }' | tr '\n' ' ')
+
+read -ra PARTS <<< $DEVS
+
+for ONEDEV in ${PARTS[@]}
+	do 
+	sudo ethtool $ONEDEV
+	done
