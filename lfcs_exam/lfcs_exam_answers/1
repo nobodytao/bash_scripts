@@ -1,0 +1,4 @@
+File Systems and Storage:
+
+1. Identify and repair the filesystem errors on the "/dev/sdb" partition.
+2. Configure a new partition, "/dev/sdc1," and ensure it is mounted at "/data" upon boot.

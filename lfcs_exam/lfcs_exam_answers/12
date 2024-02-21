@@ -1,0 +1,4 @@
+IMAP/IMAPS:
+
+1. Configure Dovecot to use SSL for secure IMAP connections.
+2. Create a new user mailbox for "user1" in Dovecot and verify its functionality.

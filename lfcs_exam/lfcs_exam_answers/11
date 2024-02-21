@@ -1,0 +1,4 @@
+File Editing:
+
+1. Edit the "/etc/ssh/sshd_config" file to change the SSH port to 2222.
+2. Append a line to the "/etc/hosts.allow" file to allow SSH connections from the IP address "192.168.1.1."

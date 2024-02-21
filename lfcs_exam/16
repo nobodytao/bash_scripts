@@ -1,0 +1,3 @@
+AppArmor:
+1. Create an AppArmor profile for the "apache2" service and enforce it.
+2. Check AppArmor logs for security events related to a specific profile.

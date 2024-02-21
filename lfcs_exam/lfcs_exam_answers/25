@@ -1,0 +1,3 @@
+Quotas and limits.conf:
+1. Implement disk quotas for the user "john" with a soft limit of 500MB and a hard limit of 600MB.
+2. Set a limit on the maximum number of concurrent logins for the user "manager" using limits.conf.

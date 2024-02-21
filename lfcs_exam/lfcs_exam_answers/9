@@ -1,0 +1,4 @@
+Security and Firewalls:
+
+1. Configure a firewall rule to allow incoming traffic on ports 80 and 443.
+2. Set up a user "audit" with restricted shell access.

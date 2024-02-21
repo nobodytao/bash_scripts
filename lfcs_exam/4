@@ -1,0 +1,4 @@
+Package Management:
+
+1. List all installed packages on the system and save the information to a file named "installed_packages.txt."
+2. Determine which package owns the executable file "/usr/bin/gzip."

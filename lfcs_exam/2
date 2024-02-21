@@ -1,0 +1,4 @@
+System Boot Process:
+
+1. Configure the system to boot into single-user mode by default.
+2. Investigate and resolve issues preventing the system from reaching the default runlevel.

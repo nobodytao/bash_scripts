@@ -1,0 +1,4 @@
+File and Directory Permissions:
+
+1. Create a new file named "confidential.txt" with read and write permissions for the owner and read-only permissions for the group.
+2. Change the permissions of the "/etc/passwd" file to allow read access only to the root user.
