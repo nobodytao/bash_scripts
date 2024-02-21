@@ -41,7 +41,7 @@ Docker: Tasks involving the installation and basic usage of Docker containers.
 <b>Disclaimer</b>: The information provided here is based on open sources, and there is no guarantee that these specific topics will be covered in the LFCS exam.
 <br>
 <br>
-<h2>LFCS Exam Questions Script</h2>
+<h2>Exam Questions Script</h2>
 <br><br>
 <b>examquest.sh</b> is an executable script designed to sequentially present LFCS exam questions stored in files numbered 1 to 26. After each question is posed, the corresponding answer is displayed.
 <br><br>
