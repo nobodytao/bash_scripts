@@ -1,4 +1,4 @@
-<b>lfcs_exam</b> is designed to help me prepare for the LFCS exam. It includes a set of tasks covering various exam topics, such as Virtual Machines, IMAP, limits.conf, quotas, swap, LVM storage, RAID, Squid, iptables, UFW, PAM, ACL, IP routing, Netplan, AppArmor, DNS Server, SSH, and Docker.
+<b>lfcs_exam</b> is designed to help me prepare for the linux administration exams. It includes a set of tasks covering various exam topics, such as Virtual Machines, IMAP, limits.conf, quotas, swap, LVM storage, RAID, Squid, iptables, UFW, PAM, ACL, IP routing, Netplan, AppArmor, DNS Server, SSH, and Docker.
 <br>
 <b>Please note</b> that all information about topics is taken from open sources, and there is no guarantee that these specific topics will be covered in the exam.
 <br><br>
