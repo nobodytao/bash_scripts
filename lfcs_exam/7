@@ -1,4 +1,0 @@
-User and Group Management:
-
-1. Create a new user named "manager" with a home directory at "/home/manager" and group membership in "staff."
-2. Remove the user "guest" and ensure their home directory is deleted.

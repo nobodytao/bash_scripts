@@ -1,3 +1,0 @@
-Squid:
-1. Install and configure Squid as a caching proxy server.
-2. Create an ACL in Squid to allow access to specific websites only.

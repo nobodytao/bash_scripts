@@ -1,3 +1,0 @@
-UFW (Uncomplicated Firewall) and iptables:
-1. Configure UFW to allow incoming SSH connections and deny all other incoming traffic.
-2. Manually add an iptables rule to allow incoming traffic on port 80.

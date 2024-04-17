@@ -1,3 +1,0 @@
-DNS Server:
-1. Install and configure BIND as a DNS server.
-2. Add a new DNS record for the hostname "webserver" pointing to IP address 192.168.1.10.

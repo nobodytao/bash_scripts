@@ -1,2 +1,0 @@
-Statically Route IP Traffic:
-1. Add a static route to direct traffic to the network 10.0.0.0/24 via the gateway 192.168.1.1.

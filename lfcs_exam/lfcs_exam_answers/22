@@ -1,2 +1,0 @@
-RAID:
-1. Set up a RAID 1 array using two disks, /dev/sdb and /dev/sdc.

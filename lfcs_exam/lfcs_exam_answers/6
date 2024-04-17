@@ -1,4 +1,0 @@
-Networking Tools:
-
-1. Install the package that provides the "netstat" command on a Debian-based system.
-2. Identify and terminate any processes using port 22.

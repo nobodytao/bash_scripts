@@ -1,3 +1,0 @@
-PAM (Pluggable Authentication Modules):
-1. Configure PAM to require a minimum of 8 characters for user passwords.
-2. Implement PAM to enforce account lockout after three failed login attempts.

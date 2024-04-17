@@ -1,4 +1,0 @@
-Shell Scripting:
-
-1. Write a Bash script that checks the free disk space and sends an email alert if it falls below a specified threshold.
-2. Create a script that automates the installation of commonly used packages (e.g., vim, htop, git).

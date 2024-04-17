@@ -1,4 +1,0 @@
-Service Management:
-
-1. Identify the service associated with the process listening on port 8080 and ensure it starts automatically on boot.
-2. Stop and disable the "apache2" service.

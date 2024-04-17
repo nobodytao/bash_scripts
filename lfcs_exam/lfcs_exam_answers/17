@@ -1,3 +1,0 @@
-Netplan:
-1. Configure a static IP address (192.168.1.20) using Netplan for the "ens33" interface.
-2. Apply Netplan changes without rebooting the system.

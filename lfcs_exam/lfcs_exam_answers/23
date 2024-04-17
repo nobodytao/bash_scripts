@@ -1,3 +1,0 @@
-LVM (Logical Volume Management):
-1. Create a logical volume named "data" with a size of 10GB.
-2. Extend an existing logical volume by adding a new physical volume.

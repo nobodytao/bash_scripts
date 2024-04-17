@@ -1,3 +1,0 @@
-Docker:
-1. Pull the official Nginx Docker image and run it in a detached mode.
-2. Create a Dockerfile for a custom application and build a Docker image from it.

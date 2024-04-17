@@ -1,3 +1,0 @@
-Swap:
-1. Add a new swap partition to the system and activate it.
-2. Change the swapiness value to 30.
